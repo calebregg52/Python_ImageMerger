@@ -1,0 +1,36 @@
+{
+    "Backgrounds":[
+        {
+            "background_name": "blue_background",
+            "background_path": "./sprites/backgrounds/blue_background.png",
+            "odds": 0.25
+        },
+
+        {
+            "background_name": "green_background",
+            "background_path": "./sprites/backgrounds/green_background.png",
+            "odds": 0.25
+        },
+
+        {
+            "background_name": "purple_background",
+            "background_path": "./sprites/backgrounds/purple_background.png",
+            "odds": 0.50
+        }
+    ],
+
+    "Foregrounds":[
+        {
+            "foreground_name": "test",
+            "foreground_path": "./sprites/main_images/test.png",
+            "odds": 0.25
+        },
+
+        {
+            "foreground_name": "other",
+            "foreground_path": "./sprites/main_images/other.png",
+            "odds": 0.50
+        }
+    ]
+
+}
